@@ -5,7 +5,7 @@ I'm a front-end software engineer with a love for CSS, Javascript and documentin
 ## Currently, I'm...
 
  - Refreshing my knowledge of ES6 Javascript basis
- - Experimenting with and modern CSS
+ - Experimenting with modern CSS
  - Figure out how to work with SVG files
  - Thinking of new games to build using emojis
 
