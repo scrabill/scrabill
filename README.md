@@ -4,7 +4,7 @@ I'm a front-end software engineer with a love for CSS, Javascript and documentin
 
 ## Currently, I'm...
 
- - Studying algorithms 
+ - Studying algorithms
  - Refreshing my knowledge of ES6 Javascript basis
  - Experimenting with modern CSS
  - Figure out how to work with SVG files
@@ -12,4 +12,4 @@ I'm a front-end software engineer with a love for CSS, Javascript and documentin
 
 ## Follow me
 
-On [Twitter](https://twitter.com/shannon_crabill) or [Linkedin](https://www.linkedin.com/in/shannoncrabill/) if you want to keep it profesh. Oh and check [my website](shannoncrabill.com) to see more of my work.
+On [Twitter](https://twitter.com/shannon_crabill) or [Linkedin](https://www.linkedin.com/in/shannoncrabill/) if you want to keep it profesh. Oh and check [my website](http://www.shannoncrabill.com) to see more of my work.
