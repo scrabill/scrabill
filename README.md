@@ -14,8 +14,6 @@ I'm a front-end software engineer with a love for CSS, Javascript and documentin
 
 You should [vote for me](https://shannoncrabill.com/blog/ruby-on-rails-thinker-of-the-year/).
 
-![I'm an official noonie nominee](http://shannoncrabill.com/assets/im-a-nominee.gif)
-
 ## Follow me
 
 On [Twitter](https://twitter.com/shannon_crabill) or [Linkedin](https://www.linkedin.com/in/shannoncrabill/) if you want to keep it profesh. Oh and check [my website](http://www.shannoncrabill.com) to see more of my work.
