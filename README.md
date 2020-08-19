@@ -14,6 +14,14 @@ I'm a front-end software engineer with a love for CSS, Javascript and documentin
 
 You should [vote for me](https://shannoncrabill.com/blog/ruby-on-rails-thinker-of-the-year/).
 
+## Featured Blog Posts
+
+- [Amending Git Commits](https://shannoncrabill.com/blog/amending-git-commits/)
+- [Approaching Problems like a Software Engineer](https://shannoncrabill.com/blog/approaching-problems-like-a-software-engineer/)
+- [Custom Data Attribute](https://shannoncrabill.com/blog/html-custom-data-attribute/)
+- [Debugging Has Many, Through Relationships in Ruby on Rails](https://shannoncrabill.com/blog/ruby-on-rails-debugging-model-associations/)
+- [Taking Notes as a Developer](https://shannoncrabill.com/blog/taking-notes-as-a-developer/)
+
 ## Follow me
 
 On [Twitter](https://twitter.com/shannon_crabill) or [Linkedin](https://www.linkedin.com/in/shannoncrabill/) if you want to keep it profesh. Oh and check [my website](http://www.shannoncrabill.com) to see more of my work.
