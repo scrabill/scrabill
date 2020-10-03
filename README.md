@@ -20,6 +20,7 @@ You should [vote for me](https://shannoncrabill.com/blog/ruby-on-rails-thinker-o
 - [Debugging Has Many, Through Relationships in Ruby on Rails](https://shannoncrabill.com/blog/ruby-on-rails-debugging-model-associations/)
 - [Drab to Fab: Makeover Your Project README In 3 Steps](https://shannoncrabill.com/blog/improve-your-project-readme/)
 - [Taking Notes as a Developer](https://shannoncrabill.com/blog/taking-notes-as-a-developer/)
+- [You Don’t Have to Participate in Hacktoberfest](https://shannoncrabill.com/blog/you-dont-have-to-participate-in-hacktoberfest/)
 
 ## Follow me
 
