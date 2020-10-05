@@ -5,7 +5,7 @@ I'm a front-end software engineer with a love for CSS, Javascript and documentin
 ## Currently, I'm...
 
  - Refreshing my knowledge of ES6 Javascript
- - Migrating my personal website to [11ty](11ty.dev)
+ - Migrating my personal website to [11ty](https://www.11ty.dev/)
  - Thinking of new games to build using emojis
 
 ## Also, I'm a nominee for Ruby on Rails Thinker of the Year.
